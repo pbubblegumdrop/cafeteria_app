@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+what the app does?:
+- an ordering app with menu for a school cafeteria. the app is built for the student, lecturer and the cafeteria staff. the student and lecturer can order via the app, and receive live notification when their food order is done. the cafeteria staff can view the food order and also mark the order as done for the student/lecturer to collect. 
